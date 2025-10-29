@@ -1,0 +1,9 @@
+tank_t80: a main battle tank
+
+tank_k2: a main battle tank
+
+armoredcar_bmp3: an armored infantry fighting vehicle
+
+armoredcar_k200: an armored infantry fighting vehicle
+
+military_truck: a military transport truck

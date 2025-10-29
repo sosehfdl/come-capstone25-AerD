@@ -1,0 +1,9 @@
+tank_k2: A K2 main battle tank with a sharp-angled turret and long-barrel smoothbore gun, camouflaged for concealment, featuring no external fuel drums.
+
+tank_t80: A T80 main battle tank with a rounded turret, long-barrel smoothbore gun, rear-mounted fuel drums, and camouflage patterns, powered by a gas turbine engine.
+
+armoredcar_k200: A K200 boxy, fully tracked amphibious armored personnel carrier with a high-profile structure, rear troop hatch, turret-mounted machine gun, and side armor protection.
+
+armoredcar_bmp3: A BMP3 amphibious infantry fighting vehicle with a flat, small turret on an elongated hull, equipped with a centrally mounted cannon and coaxial machine guns, some appearing damaged or broken.
+
+military_truck: A military truck with an extended cargo bed, reinforced side panels, rear-mounted container, high-ground clearance chassis, rugged oversized tires, and front-facing cabin windows.

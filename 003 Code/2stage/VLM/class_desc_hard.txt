@@ -1,0 +1,9 @@
+tank_t80: A Soviet main battle tank based on the T-64, powered solely by a gas turbine engine. Renowned for its high speed and agility despite heavy armor, with variants like T-80B and T-80U.
+
+tank_k2: A cutting-edge South Korean tank (K2 Black Panther) with advanced fire-control, in-arm suspension, and network-centric capabilities. Offers rapid target acquisition and high firing rates with a 120mm smoothbore gun and autoloader.
+
+armoredcar_bmp3: A versatile Soviet/Russian IFV (BMP-3) equipped with a 100mm cannon, 30mm autocannon, and robust turret system. Excels in both offensive and defensive roles.
+
+armoredcar_k200: A modern South Korean APC (K200 KIFV) that is lightweight, amphibious, and modular. Adaptable for roles like troop transport, reconnaissance, and support.
+
+military_truck: standardized, unarmored transport vehicles used by armed forces for logistical support. Designed for durability and high load capacity, these vehicles are optimized to transport cargo, equipment, and personnel across diverse and often rugged terrains. This category excludes armored fighting vehicles (AFVs), main battle tanks (MBTs), and specialized armored personnel carriers (APCs).
